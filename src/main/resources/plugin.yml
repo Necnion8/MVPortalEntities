@@ -1,0 +1,6 @@
+name: MVPortalEntities
+version: '${version}'
+main: com.gmail.necnionch.myplugin.mvportalentities.bukkit.MVPortalEntities
+api-version: 1.13
+authors: [ Necnion8 ]
+depend: [ Multiverse-Portals ]
