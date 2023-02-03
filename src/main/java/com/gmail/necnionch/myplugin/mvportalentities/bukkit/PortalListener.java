@@ -1,8 +1,5 @@
 package com.gmail.necnionch.myplugin.mvportalentities.bukkit;
 
-import com.google.common.collect.ArrayListMultimap;
-import com.google.common.collect.Maps;
-import com.google.common.collect.Multimap;
 import com.onarandombox.MultiversePortals.event.MVPortalEvent;
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.LivingEntity;
